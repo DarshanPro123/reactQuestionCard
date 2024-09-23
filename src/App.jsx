@@ -9,7 +9,7 @@ function App() {
   };
   return (
     <>
-      <h1>my app</h1>
+      <h1>my Question Bank</h1>
 
       <div className="cards">
         {questions.map((qus) => {
