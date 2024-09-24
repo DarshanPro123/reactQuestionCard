@@ -41,12 +41,12 @@ h1 {
 }
 
 .card:hover {
-  background-color: #f5e7ac;
+  background-color: #f95d5d;
   cursor: pointer;
 }
 
 .card-selected {
-  background-color: #f9e798;
+  background-color: #f33120;
 }
 
 @media (max-width: 433px) {
